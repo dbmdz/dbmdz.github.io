@@ -4,6 +4,32 @@
     "description": "Highlight various OCR formats directly in Solr.",
     "versions": [
       {
+        "version": "0.8.1",
+        "date": "2022-06-10",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/0.8.1/solr-ocrhighlighting-0.8.1.jar",
+            "sig": "dBtzpoczUXm+CFG7lh35jpq/gm/yv5OLGva4klGcBjLi7dNxhSGWbjL2aDpo56DC/TIJPeHGsV5zgNN8/bAmFDqZFrfli0ufGvd7duVx4jRxyaBM6cV8ouI2f1Q/nxE5pCiJZS2ZICqdwkMCO7Vqy5F/2VcDIZrR+jyr7UP+x0sCVg3ZUymdX+zXCBf16MKyYOXCk9aGD0sd/yco/6klk9Ngr8Azwnm9+9DV30cRDS7Y4cXCfNaCXOuiJbdx4xnzM099y9lwQeqpzn48mjf8laHPgjBzZeM++7nH3hR71vBKz7sOASd81s41l8wPrKPcovLk/IOnxyuIMPqxFhGW6rRD73tJCLSm4HjqyqabqgvvQuIrX+iuo/tWT1/Fh1BUJuAm3dWsdWgcVyAX5khSs3v/UBN5Pgagxz3KNbt8qoHHGb1+r8BlJecjxSEG53v6Ye3Xu+AiN8O3RXuviUb1bvOHWB9bZpGdLDYk7jqTddV7YDAbjWwGeKy8FTP3MIIpqm0X5wQ5JeAHB+ECii/VKcZHgmvCP92cgPhsYedWwEtGrnmMBXoPXZm/qF6scZd1A4wr+f9O6oqM/lEPyDxLUREm7OP7vlBS54mYDBQfJkXorNDFCUUfwUX/CePJz29PfJ7qNUBgfS16X2c1M3JVhK1HPQMfIb9Nru1tenu64VI="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "9.0"
+        }
+      },
+      {
+        "version": "0.8.1-solr78",
+        "date": "2022-06-10",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/0.8.1/solr-ocrhighlighting-0.8.1-solr78.jar",
+            "sig": "BBVHra+cPYJrA3FUhZD3GY3OFFN/kVQrxUPosXoA596gUL+Pl2MguO/dJ7dgYWl7NjPs71FdjxRp8jn++cIe0tTu3ApZDMHVLbYOsQR/r8S0sU9mQ4UIufZfrdjAIvDqqVLivYXHv1L8jn3potFAXvGTKwlE5PZDdx5cAGhy1nFCvAMEHwHd3TR4JB/UpGzegNYFwjy6B1muP2X19T0WUZGiXUFjGm0rNkUYd1lxLdwt4DJgKZ7QGyVli/N0oTZMIVF6ArUgjv2F6RakwnhzHugiocybYE/33MiVVeBhGNyqj9UuNrqyGIkDtLzZBlhUDJoGd4+4bno6XONpQoLnBvVGC0kU1Mqbh7fBeSb28u8j5r9CD7yBrg3/PjmWILfl/3QiCxmynogy70OxTBC1NK96PkGxnHQa1ugpgUpSWwZhaH3RaY/2hoLRRdPY9+lRz2nCeWUsUzN3tv55yu+nVGntICl1V0bbGIx6KfV7r25MMpbDPl/a7h9B40FcerFeq1NWE9gi1sdnNMQixPfClrMYYpav0/1c8oPN/iHBgR85pm4xLRWOQDVN1SVSuNSYo3ecV2B0A1GZHGcSGMNhvIV2jguCk1psqo2ZQt/PMaSubpfYaLVqzmz+ox3QQ+9YKm1Up1UV1BKrUxM6H4WyxNhUWJG0SkuMUmUJhhkQ0+0="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "7.5 - 8.11"
+        }
+      },
+      {
         "version": "0.8.0",
         "date": "2022-06-01",
         "artifacts": [
