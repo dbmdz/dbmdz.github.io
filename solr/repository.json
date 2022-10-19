@@ -4,7 +4,7 @@
     "description": "Highlight various OCR formats directly in Solr.",
     "versions": [
       {
-        "version": "0.8.3-pre20220118180153-solr78",
+        "version": "0.8.3-pre20221018180153-solr78",
         "date": "2022-10-18",
         "artifacts": [
           {
@@ -17,7 +17,7 @@
         }
       },
       {
-        "version": "0.8.3-pre20220118180153",
+        "version": "0.8.3-pre20221018180153",
         "date": "2022-10-18",
         "artifacts": [
           {
