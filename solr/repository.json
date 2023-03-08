@@ -4,32 +4,6 @@
     "description": "Highlight various OCR formats directly in Solr.",
     "versions": [
       {
-        "version": "0.8.4-pre20230308120716-solr78",
-        "date": "2023-03-08",
-        "artifacts": [
-          {
-            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT-solr78.jar",
-            "sig": "I5xaMbFjxHtNzotEqFEZ6CIpr3KijoI2z7mzN8LdxdfoQ9SeM+wMfJqH7syNisVqyYJJBh7dyO5SOdnnr4YvGJQKftpLPDOMKvZYTy83zIykz2jiH2pa0Oj5DwK//V7q6T4WBNSj+8vIyRmJ+gtbj1886T0X8Ok626BPRW1FSSCTTsAkcEJh7IZQiXOxkzrwKWfTVgEXD8CkTxf5VbLvq8D9SuOoRQiBt2CqkYm8uX5hYnN1Fi8xW60hN2yKbRB15h1Fr0nF8cmmHQihjN2I3UWQW3Fwi8Ya6RHoe72cAhf/MQwefYramKbuKewYpDWXyxKzrFc+QX1ksOM2q/Gkk1cBFlb/yU8aRJQ6RX8kOcSs1XZZrMJIaiDxa1W7xyp6bL08VpcPoH/aXJiDBtjKX6ZdNK52jvqLDdWXATQOsgBt3Yp65MUkctwbLORUk9X85APh7cBk67PJW65mKdPgFEQXlWBFasVFtfblaJY1g48NgIXwm9i+nUbOd+lNuKPiYkhRkOxjSeeoWWiskbpp8MnZLwbHm8bDd01L/HqPm6uoiLen7hOv3373oZSk17qHVsA0hPcFzOCEzeD7EGFavzaUivL1AEU9fL65XBlwhiXXSDpgT56qstHI+OF35chrcHKQ01/d2hY899FcAcZzxeh/j26s7riqZCkAKjK62jo="
-          }
-        ],
-        "manifest": {
-          "version-constraint": "7.5 - 8.11"
-        }
-      },
-      {
-        "version": "0.8.4-pre20230308120716",
-        "date": "2023-03-08",
-        "artifacts": [
-          {
-            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT.jar",
-            "sig": "Q5Y/00jUT0QbHZpDVp881Sepfd3gNMlIrrSZ8mRY5huPuo5+Aw+TQfPy2gXFOdTauND6sJCriWR/ZYSSAEv6BZ65c25txs269XSIfSfiMhN4Ux+iDIBvtr16r6GwvQnGnyGWZgERZJwn+KSeNJ6QHFgkl9tVVsZlx0iUq5783eAUNHg25nsA6MHM341qXitkAWpNwjtbEVVeqKaAlbsq0kiG/TZikYCZtJ/30RitlSuDSxqW3Ng4oMo3v3xcUjdHsrSTBxzOxScg6XxFz0J5WLe8c2w4H8zGo67k3FHxGZmvG71Ev+pUQXtCPozWD7RJRaSJP6UvlSHsvgdOTEtq0lGwM4dihPo+roQBkBPx6HzOUx32vHCacZ20pw2HNdg5IDkiRqo5AhXWzdFmdqs8g0BgVgzY9djO5HC44jUoxKrBUz1VGs9gUSauj9GA36zkJ//2BCkfPTU0imb6vhLSl2YA4KE2m3N48rDRs2ePTqp7geYCQf8MR8ZTESAJ+grjG1Klo0EJnfTQ/FniEF77EpB07eksmKfE1kMi6bAouwuO/WjPJQscTa2v48DBGcu4lxE7IBKfdkCNIDR9PPspgwup5yUE41Zy7q8neRztZvEcDTubj7q/geWV0GWM4z3Sm2GGlKflCsfTo2/RwpkjiuhGaaY40yjvvkSpF2gcPi0="
-          }
-        ],
-        "manifest": {
-          "version-constraint": "9.0"
-        }
-      },
-      {
         "version": "0.8.3-solr78",
         "date": "2022-10-21",
         "artifacts": [
