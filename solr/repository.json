@@ -9,7 +9,7 @@
         "artifacts": [
           {
             "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT-solr78.jar",
-            "sig": "H4yjhjvArXQcXFHs4gK3D/iJJATp0cABvKjZSpcNXvEr19lS1Rt3SfygSUeLnNJhR+KCAomd6oo4Ed/QoXEEAByQmbBKCfNa+HbBY9XBUmtvD0LqLUol1IE4pM1GLWIgm6neCRKmSXOeSrvO7wyipt3t0TFFDqfNOqQbSxfSjzL26F/J8lu2WsZYLg9uD4KcsBy9MaSpKVGAr3jT0q9YlJdNo9Ml2Zu54ReYsJdSFeRJCjowrHgPXH2u/6KURxXD6zaHqhmg6VIo/xuJxMcvtzhhTDEywXlYafQy+5Bfkrs+sXNj8kv4M1IFW3RJRq4BQ41k9HXPYN9kY0kEjz4Z43wp0MqQQ3q+NVQJb+iiTXKBcGP8SCXK7LDT/4eA4so8H+e5kgwLB6mU/qj0ql2O2YrBgw3gMvHsA98uJanCR4fGEn7B5aX4JYBvFWq1Boz0LqANVk32rs1T2/rdXkslOlDGqL4HBw4eIzCz2sIvoPrCKli1fVjErtdWnDV7c7lboKacC2FcqGVm2kL7c5AbC5bl7xPeO6ipx8OYXVrZj0brXidaFUWvB+9vCwLF35Ki2Kr5waMo0nhrUf/eoBv924CSSgvXbKlY1CRCczm7u/owjypzB1mvZphZTI+kUXRmkC3rJnqnmJXMwC8cLhTe3SL1fPHYZyfhr2Jmwq/qIrM="
+            "sig": "MdrwkjBeAxh4m5sfb2Rn/zH2YeVefTcGSJzfvTUn9U2ng05FR0f4T+Yy/TcrsbrbMDfme7s50iCPZCk+JoL2j0bFjSt+V/kZPTHAXU3vQPz3Tesj3zAjEijaB+DNa2hyKp36dGyfv/C7iVehALdcdF/3sGQeOjZ7AkOz6aKedF7KlOMRDeTyFUXrjT2RJiDahAzxz88v1epTZFtR7psMjNVfC/6CpIy7wF1NPNu3RhJ+a6L+PhpWPTmX0jQB6tRhFn90DWmyDsbxtG3ltDz2QffiJL4hxwxGLuPGAtkQFFiKHBKVXILppRJ7cWwKQ1zQfWtXFJ/BQ9yTtXUNLWn7PbgQAn0mWNYmFX2dP9i4YIyCDAMrRNcE394LqUAuQAPHmACzjoMyFmyeuoFoXkPAbJZyqBXLM5XmwGxpjakSD71Qf0PukJe3B4bmdyq7EiVwP81BPOgbjSQZoj85/3bB8xRw0aX/D7RGx8g5Bl/MswsWHoorzog8yTCS0RGptEzJv8WxuPw1XZ7E84l5MfPKIRtjlXpCV/XMkgNVlVzi2XrLyi/nPoHRHq3YAgIeX2As2McUybCGexweEBl1K9Nj23doWBMnkSVj4/x0NvtaO4cdoMqW+FsVTW0I5H+ZTubkINAIyBC33GrQYRPf/QDrFIHjya2h/lH7G5lehrShgPY="
           }
         ],
         "manifest": {
@@ -22,7 +22,7 @@
         "artifacts": [
           {
             "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT.jar",
-            "sig": "f9+Cqd7kQDafPwdl/5eLU5jH9ilUzG8cv4GOVXUVSav9gdm8LASWCsLi0Qr5PaZDmAKD6uqH5ruRtvlcFzLJ+Z2eohghAe+OAGa4Mcz0ZiaaA5P+7V/gtr0bT1lZUldFsMaJMikIURMIfZXlw0H7O+TjrrHMZ7HxKv19SsCWDmfsS/H0DhsAy69Dp8y3/OKAaJVO4TdLQuAw63+w3dcKN5Ko9rTdqDxG8EO6zuKBkZoyEDA/6C3P8+dqXHwjIkwGYrJk2hofUmrMGkIaAQhxZkTIpBS5GVSumIcHCR4jD1FV/X0DodwhZAV2EAnh/fZdTHKvYin7mpIRLoSgcAa4TcSHDdGLhjoxsu9D/pta1YQiLwjSFxWyt/CpDrKOOWV6V625ET7XRMqjmjx0+AYUokaG/p405nv6ixGyDL5AQUz/LONH4Y4qP1YzUsymKqzXylLCcXeI/28xUluZAwxnguqOll+k+Qt/1F7aK2rARGraUJI7FXjIF9seQ7/0uIxcwnBYgSD5mXcX9LlxNjLyhEcdN8HwAqJ+/VwqyC+2AwxNUSjT08n42WjU7sUHDIpiVIG4ZUHaTq0cVQzjIyMOPfARcFIUwAuu9JkbzY9C65l2KoiJQhA7HlkAKAhUoskkwPe7BAfXunRB3oMfILTGjYD0ND7nwxGozb0/GLkWl7o="
+            "sig": "GQMjwar1ejKH1oShkPnUC7z8qYGUe3mMeUmVDl+og3bS166qSlbtPjjrIDiSxpIy2mK6ItixeBXU2386zHnG6UjhgLlFImTCECKCgrMAYUl5i0Q2s0NWA0lrNXXGbnW5fwTadHY5LedB3Ocrv8gGKonlhM+s13PGJoEXHAv/Kp0AVhslOZVswOIKa5D6xY6uRzxzVIQE5IcAWgv1T9doDNoafjImuEHNiMnijYyrUiMgBntcHU5KL+YiSxWEqPOFHuPBFUFnNzLY+8CZM1ZkysUReDBZ317B8n5Vf1+MJq9sjd6dFZysec1s9sjslYwBjKyMnoGRAOq+tbOq653AI28fCOb0HAICDkVPvGr5L6Mhd84r6EbzyFvxgu6Pee3RHS9R65cF/EPVcb23uqPeBeBXG9OYTmDycd/aBTS3v7nR84p4vHqLckh4aVJ8frqk8g6Za8AUTDeTQbU+RXitS6KCyB3E5i+QPKK66CevcYe9PW6HkH8qnkQA5tYHHl2KmbZsLzTLrCt3mC9JfmBGECF11Iaf6j+X/aFO2h9o95iphZkYhDiN4Y6Qmig6+sZdLpiD2Jx+YPiGHvZd8JzIAjKtr5vqlzmPGVnLw19fURgNNsr6jBEuo1MY//IoHwC35srOohUw+lZSih5+XdSiEhG/ag3Vc6VB8ABikKdPPFs="
           }
         ],
         "manifest": {
