@@ -4,6 +4,19 @@
     "description": "Highlight various OCR formats directly in Solr.",
     "versions": [
       {
+        "version": "0.8.4-pre20230308120716-solr78",
+        "date": "2023-03-08",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT-solr78.jar",
+            "sig": "VCz65xqbV+6Ox1Gfl+cHwDKB+m+Onlavw8DS7BT0fFbIwz3NHv/hhqPVeoQbEtOU72T2w8agYUDTZLnVDvwODOOSJAlZjt1txnFefVAmIWanhbEKHyA9Z5nd0dKvxljIj+xTUAsHuDhcifOBZzPtG4vOJTEl2xHxBNwlAHV0+bjf/Yg9C67cJXqXr+EVkkooGQNawEuHWuouQpGiCekFvepExYIolHteqMnh6IzuEcB0znFW0Lrqq9ofVGltHmrPEEXRJstmAKDVI7MtKiFD6dRiTGcHBuLeHw3BKyNDoZ7Mn8lf7Hk/epeMI5QpU3euvyuZJa/ZJnFmCIPn6u0ZhggFp+ysRKo3UNM3+9fJBMtMsQyi2s7oZCfh/L3M/llGLlopG6koYexSwxtwxljqNA6wz2hdkud5cvOeTVObvYOGKvyDyI9yWinfeOQL45axIxVQ9Li3Mv9ri7uDuu4KB+VBR9xjUTl05dDlRG4RkaGeaWOe47UGOh7VFuupzwtPaq9aiFnbATfdQ6enWRPjKNCdRT3zdooJ6bUzTu3nrqmibWCZ+/jRuY3LZJpjLqshEoZq27pth1Kqlk7HYxP0AO5yzAGn7UaLdNlj+ZFI3NQ81dF5Pz9P0+dRfjVKh9m8SItWY93YnpJ9F9NihV0aUS6SUagJM+i6E6EQb1dO/ew="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "7.5 - 8.11"
+        }
+      },
+      {
         "version": "0.8.3-solr78",
         "date": "2022-10-21",
         "artifacts": [
