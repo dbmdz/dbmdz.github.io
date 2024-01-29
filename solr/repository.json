@@ -9,7 +9,7 @@
         "artifacts": [
           {
             "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.8.4-SNAPSHOT.jar",
-            "sig": "A+/WZzxGXxBkJVz3SPk7K4lce9rUlBW0UtuqUidkjSY3iF4di2CGiFaP5tUqqMvNL9jafim7U10SYZDu8402s3q+3qy/xpLxMftBqSn3TYPF/SOhj71edCCA2nsUCuG+kMx46UjfRJMsvMeXyWGqPU+GItK1/tQgZjoTGuWOFGWSx69h2n8/GpFdFqKK5DvyPpw/3+f8tJjA8x+rXNIL3IGXPMOq8FjXTbLh5baQd6PlOVnYPgXih+7n+uIXyf52iPxhr330sAj8ZfPUCnwpc0ywGmP3248xBF3vkmqXm1PxZgdIyj7aJSOAoqbRtS6s9XzF5yJ8Wh+fstW+wbij4a0hKn3xTW34gZLKcft5s7n/aH/eh5EbERiBzo1YoE5spNxxa+OlFC9nACoRDXLteugwaCKXj7ugD98vD73aInKO/cxqe/xyEXTAMywkGLBy5hlQGYONhM3e5v1Pku7kDMrx+6vNXD++gI/pbBPeiZuSrLXSybt5UuwswmSbvk0kUEjDlhe7sUKYP/DT1yIZo/T4mkJQEOLXJgTN/0pn89EgWoi8P8sYs0pS+XH4nO4gk+sadpTHkdsMuEBSfhcjHnbBm7AWVZyvif6veyJfR7HPt+0yguPLZcL7hyokzdtIy6jXN3c02sGDkyW1xxEyMoUBQogcRldaixl00qt7OqM="
+            "sig": "KgIq5QYeScAiH5U9b60qBocMIE0JSy5LnyjGjesYTRaagRG4C91RO9Su9b6mTGzyPiO9vm1//Cqikx4H8UCOlZ3PYrz2ihYrnTk8tM6Ao3g9wxH+lUKttN06cUWmnQzf3o3w0eTIqXkd9vNk3RveqeTFMYGhH3MjPqzMHqAfc1jAMpH/zyO6LFtL+MNwyl4CnRdi0Su6DOW7rFqXVpj/B1A7e/LWP6E1TXw5h7FP7BF3p2ZJHY7xlYKNnxvNZR+4Qe7P6spL7dSj6qS06yOATuQgsE0XPkaR74bZSaMT+zjLwtpwY03IDj0nKmE68c4Q8Ig3LQVUdx2z416P90eBMq9AlxR2zIOcyJaEEtnLvysKgeFfaoDoOzRMvF/k9nHoLl58avFzFJI9oxwr0GULeu6FCq0/MP7ru+e8WWjmN3CsJ1242cSDG01j7xCc+tztwpslQStZTxrrvAlDoVoSbICI4G2irChVgxKZ9slIb12Uf9z5I/pCQD9gDAtp7F1QCm8WvqYACbJtZC0o848b1MDo7X3nDK28P446AFVM6oPb/Z4V0IOEf3zuDtgkYlO8+EXUrv0zhxSaKAat/KFWO+F/DtjZcRatqUIp6FJan5oJrqE/m9S2EdgekZyXIIhZP7ux58O6ITbuzLo+FKM35lIbRslLJavWsnPQHMHCCQ4="
           }
         ],
         "manifest": {
