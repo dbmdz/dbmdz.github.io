@@ -121,19 +121,6 @@
         }
       },
       {
-        "version": "0.9.1-pre20230308120716",
-        "date": "2023-03-08",
-        "artifacts": [
-          {
-            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.9.1-SNAPSHOT.jar",
-            "sig": "lzX+W7Ppjtc9VAzvXb2NPrhNduJqqUqYk3H3t3VZfhwoxYYe39e66Ui2qm2LQD27Ir6wrK3Cqb1udOvqAsqxFcoz81id4c/2FI2nd9L13spRRUluzKsyHg9NwqJ5e4Ju+hWMJtXr4NRhxT6YhSrrmDqy9nyyhC9tRF20YlkN1rWQUXsSI+crXz6KKuTjU8PP6d7eNbrYMFAWQOBBJDWXCy/pdsLQEkJtgVPvfxrwQ3mKBTVBkn2qXaOqs0gywWig2779OlS/mnwLIe+uauXhl8drECXcmvCQuottP6QmxIpxKTWE4EcwNzVQDWKrRxZBF56f3VWT62ybCYdkh5GrXVb+k9YvyjiJRsGbLI55lKUgbXz7zOw+DDoDRVNiD7wVV9BdvIt/IG6W1bwLKm9NaFaPGx1oNpJsRVTyl/vDBYHzpp4fAxVloGpyo21/k8log+N1Ynfc1K00X7m0/9+nMuLgzwlxrOMu43/ehbj1XPyA2kewHaJg4Pska22gSHZ4C+sqx2P+SN0q5hvqS8AdVqQ4Cqt2LK+FIKdHU2vfyFlKhWrXhRnfU8jn1PsM8jPqQKoPk0krrXuf7r3GxMeTOEKEfDGOoFStMeI3RlxQlIYXpljIo5tcye7U5/I7mbIN7lg6dXJg8VXn7aAzyx5akDM+EmKb2jyu3e8JeR+t+lE="
-          }
-        ],
-        "manifest": {
-          "version-constraint": "9.0"
-        }
-      },
-      {
         "version": "0.8.3",
         "date": "2022-10-21",
         "artifacts": [
