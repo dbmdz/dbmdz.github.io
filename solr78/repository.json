@@ -4,6 +4,19 @@
     "description": "Highlight various OCR formats directly in Solr.",
     "versions": [
       {
+        "version": "0.9.2-solr78",
+        "date": "2025-02-26",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/0.9.2/solr-ocrhighlighting-0.9.2-solr78.jar",
+            "sig": "DC1kHMLqMszF71KHhgyBtK3J2uOMPzN1NhOR0S8FJMoUchYe/U2z3M5+um4ktxJycQIqFHbKf0I6/79kbuymjRaF3tTicNrv/ECqKYcCaHaOQ5zkVe1iOGFCPET2Z/nlArobB9kyBqEUCk3s0kt6+isAwFPZvZInBIjU4KWKBM15mpo0silvMeNkz8cIIoqxVBDULHbIkKQ2gy/XiANHy2SOvU6kA10g33ZVR/WzRSGP4ZWyMZMxwirNDuCm81ZkoioCJXoDQoPxHEGtwrgu1LS0DJBFYo6lqkbM1sx2IRLF7V37WEk4KyAZqRR4Z8xTIryx0aJThupa2pQIRHQWmfSIWyujm1OaIRzPQoOryxJkWsTFtzAeC6ZKxve/EDVYsor8kAaOIerKvawCbOoERHqKu80do0Ci2ZSLOn26ZzWbW91Pb0dp8yRC7cCBZjFe4pHOVw+Yv96ogcXPtPWb0h3p22qMOoEsOt2rCmkPKgJHcTMRDPHWCEr0lXZ80C+0JS+Vx3L4Q9dM2yGfmWyiJuIibXiG6UlZdGbX5EMTphbWvI2OP3U1oOCx6Z3+dvNV9XYa91fPlxaewoBlFXbHD4fCs1yHUHG8bCyYGr/8SgX8HI4J3f1CCiF+kDMuy3TFNLXbaug5XlzlS7U6BdDq9Q7fIb1YE/vJBQacYL1yjN8="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "7.5 - 8.11"
+        }
+      },
+      {
         "version": "0.9.1-solr78",
         "date": "2024-09-13",
         "artifacts": [
@@ -166,6 +179,19 @@
           {
             "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.9.2-SNAPSHOT-solr78.jar",
             "sig": "ORklMnIuC5cvsPQzJEtZ+sFM46l8kjkoiOgdScd9N/hIWhQBh3QQpj0Peu8rwU9s9+DqfEa+/wMa4Ajw4XhVHIzFJ+Xdq7gINfoWu3QIuF9lSNmRYVR2rrJxW+xAhlFsnIcmoLKeIxl4jFRAy5YZhrRFlyrJA51yf7yFJcOiXzFcwrYZ9eeS5LtpASmGGjgPtyPMkd1aQbdQ324DaPmTZDmUyZeOPnfuAajSBnbsT2MLEPNi18mIHAHUgQe+fKnhO1ri/qJuD652MFpmIh8fVJAweE98M11DCNQ6XbOGcdwgVbs91VmhzJ670EU+53oXqjbiCgJtPr4l8S0/m0HyR2vYHpUiwLnj36s+Mx39idHepb2rRNkS/4FdW7romVYsnkaHE0R1rT6nr9tERaTot6oFimVQbWQIefHH7B1zLwyYqVexO8gU23Eq1LsEr/awMvT6bJDYga8o3yK7GwDHH9trW4dQE83GzPQBM1GarfMgtsly5uzgG5rb6BBFw85omcs8QervhVPjsk+Ho407rackZ3Aq6WhgxdMsxrNbLwkweWR6Wp+AMOUK8ITA9r8Y4AuE2+/0BFsx2OK5mNwO+sqXgEw1H3+LYW5rOGKomyRu+pQ0QPTj9WLO+X5cEwVBOHUDFFcXUm7kUHaHK4OdE1OUXZx+rXnsrgEww/TR3Ys="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "7.5 - 8.11"
+        }
+      },
+      {
+        "version": "0.9.2-pre20230308120716-solr78",
+        "date": "2023-03-08",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.9.2-solr78.jar",
+            "sig": "fuH69zNg6EjupnFWD7vnJMPwVP9rxitIIR4QC2M6v58tUSJEmacdLzPhOZjpQpSwIQLmm1+SkqeI0OZGOxPeahtRp9ac+Ubp33Fe5BRCTg77cgk/NeaS7AtW7LQhxdiwpoUrkuGojSkI4E5X01XZ5r9xaPA3NWwzeOB5j7oPO6plYLnQ2aWucS0dxlsYnpe+eVGJYKsUW9X/5vbRwFzDHScGHAur07hCZL6YKk6u6fRhz1XDbYqpEoNT3calLPN5wmw5dXn1+P+jVV7qB7PMLpB7uMiIgyo4AfMeb1rXvLCeYqhuiQrVdrhTsomw3X0pUFDS5kULngaAZxojThRgRyTd0LjYUBHIpAAYx6p/N3mGohS5IWf5Av1umZaRe9cK+/z/B1YjD9dyQcyxKajw1cNOJHNfulaMEyNrUx9pCVrKzBknneSFymqt1IhHKmCwyhKNwEImXphfhP78XCK8k+xWtTazdDFABn0buSdEOR0QM3xYK3IEEJyGlfF2arm4Vk+IvG5cSnjixiOvE4EftFn3OibzVlSFOKjW5uejEhVOw3Bt+5n4sfYv6Ac9QDMQJQNMqKgw4H+mQIiqIa0CmehmGBfw9BtUq/Az+edG/HHspZ82HOlDEAVIIop7WT2i8YBNDJcjTufl0nRzxAKBfiLLG/Uqk0n/JhhIxyZipTA="
           }
         ],
         "manifest": {
