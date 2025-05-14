@@ -95,6 +95,32 @@
         }
       },
       {
+        "version": "0.9.4-pre20250311163942",
+        "date": "2025-03-11",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.9.4-SNAPSHOT.jar",
+            "sig": "jqg0HH9rjx/4r2bmyXtgkCHpbrL9ZcTvMJo/vnl7uz0C7jfoFCRtXg4sBwuaVSqx0IWTXHCy9WqBCiV+ptEDNxPx9GPy/8iYsEBWAgYp3Y4G/WzSFkex+2Dp0mPrxN3rFPsUXxDB9EPe52c3ObXl1vZw0wbUvi1euVY/nnCGCUXr2q3KrdVsBDBoCEgh2fA7eXfieSjRr2q5UtmVcWoKwE3Ll3q3sjPc4+7cTKdBnO8gsUtfASG/2xf5wl1diNVVVlq1Lhs6/QfJsbVLncWoVtCLXScyitXi8hr09LMz6G7ag8/oJkHPOnk7gJcZGdgSpEnUp5ai9Y962To0gb00Hr5BofKPD1jeW9SLD09GvoSxsyQxk2TOEjHHJ+xDxE8tMxJ2CifWfABZe+i8msduP2y653NG29d9MBZjU7WnOEK6URwupMqsFNRGeIsQonxX26W3exBD2Xj0nte956tx5WgNZ9DlPCY/J9RCO2wB+05WSKaxoxygcI5mIQfKgIktGkzffpWxVfkbUDIfUhEG2rgoxlTicDokxmUOeHTmls9BXxTUmEJz6Qf9JD0u7iFqcWpqxdkVskjMrsE+VSQkyxHCa6dkcn2vu+IdhiFAcDShV2oG/1+bjcV14kgBzNSNGkx81wdDXiUX4xi2qMNy8A+8Fu8n/RE/ZQBDuuMqKUw="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "9.0 - 9.8"
+        }
+      },
+      {
+        "version": "0.9.4-pre20250311163942",
+        "date": "2025-03-11",
+        "artifacts": [
+          {
+            "url": "https://github.com/dbmdz/solr-ocrhighlighting/releases/download/wip/solr-ocrhighlighting-0.9.4.jar",
+            "sig": "JWLuelH48mlG2ykQDKAfB/IedvF766ECADmLuIAdb/h7vFbZC/pWRaxlFZ+Qjncf94OOovx+F4qSN3yL6licy9dwDIOzMod9lepBPTv74ePJIRoQsISm8r+RFhPDkBG857DS1Qlerx+dU6VJ1HBYgFD6DO6Bjbub8f3o37BwRc7xHh8/a54NNA9vg619r6fuGnOha2C/uwTff2wuRJ6kIfWJCX5hL34S2HYn9kQ4fiIS6AlKVSyeBE4Z6LQwzzuZHvR0BCYk6lwVF7DfhrfYOIui+okTr8P5UBdjCtVvacjdexExZJhXft599npN62eBrmeL/yVTC18XMV2XtcAjYY77cfGm/afFKAKebr1RNVfY0g4X4/CeIYR8Jk70+JS34ViT1aZHsqQYnW4JlB9IDdllfcAYb9y6ZExH0jrLTk/LihU7YQuHjXROuwQHBmdPAFxnKtLjtj49Wug8B2OaOHtBZVFeG2nC8YjKQBUcsKn9t33Z+VPQnGcTM9QhabTdfVtvOBxGknxIEw6FBItfYMRd4sEmOIXcXCdWdBNBB97rLY8MveZeMhzYr5zqRZSe5x6mlAPXRCrnjjeqyUPOTUBXkIBbJhz3psKFilB/zT0vAls7VRQ7/fO6ml8xuBJToYM4N0e5QxcLRIzcOyIjqNHQdL4tro55kUotVZ6AZAI="
+          }
+        ],
+        "manifest": {
+          "version-constraint": "9.0 - 9.8"
+        }
+      },
+      {
         "version": "0.8.3",
         "date": "2022-10-21",
         "artifacts": [
